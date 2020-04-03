@@ -1,0 +1,17 @@
+h1 {
+   color: red;
+   text-align: center;
+   font-family: sans-serif;  
+}
+
+h2 {
+    font-style: italic;
+}
+
+p {
+    font-weight: 50;
+}
+
+ul {
+    line-height: 10em;
+}
